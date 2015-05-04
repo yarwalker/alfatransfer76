@@ -166,7 +166,6 @@
 		/* Menu collapse */
 		$toggle_btn = $('#toggle-menu-btn');
 
-
 		$('#custom-collapse li a').on('click',function(){
 			$toggle_btn.click();
 		});
